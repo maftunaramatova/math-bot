@@ -1,1 +1,1 @@
-# math-bot
+# math_bot
